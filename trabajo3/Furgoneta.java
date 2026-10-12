@@ -1,4 +1,4 @@
-package trabajo3;;
+package trabajo3;
 public class Furgoneta extends Vehiculo {
 
     private static final double ADICIONAL_CADENA_FRIO = 7500.0;
